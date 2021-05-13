@@ -9,4 +9,5 @@
 - nested column layout
 - card column layout; getting bigger by hovering over;
 - contact section with a form
-- responsive navbar which navigates to different pages
+- responsive navbar which navigates to different
+- take a look at the project: https://sweta-css-tea-house-project.netlify.app
